@@ -6,16 +6,16 @@
 .but.opc-2{
 	background:#cd5353;
 /* Prevent background color leak outs */
-	 -webkit-background-clip: padding-box; 
-	 -moz-background-clip:padding; 
+	 -webkit-background-clip: padding-box;
+	 -moz-background-clip:padding;
 	 background-clip:padding-box;
 }
 
 .but.opc-3{
 	background:#cd5353;
 /* Prevent background color leak outs */
-	 -webkit-background-clip: padding-box; 
-	 -moz-background-clip:padding; 
+	 -webkit-background-clip: padding-box;
+	 -moz-background-clip:padding;
 	 background-clip:padding-box;
 }
 
@@ -138,5 +138,3 @@ span.meta-date{
     background:#cd5353;
 
 }
-
-
